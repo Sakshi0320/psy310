@@ -1,0 +1,11 @@
+﻿mouse.clicked_name_raw,mouse.leftButton_raw,mouse.midButton_raw,mouse.rightButton_raw,mouse.time_raw,mouse.x_raw,mouse.y_raw,thisN_raw,thisRepN_raw,thisTrialN_raw
+'Target',1,0,0,2.275076299905777,-0.13078703703703703,-0.05555555555555555,0,0,0
+
+extraInfo
+participant,981936
+session,001
+date,2024-10-04_12h03.15.693
+expName,Visual Search Task
+psychopyVersion,2024.2.1post4
+frameRate,60.05014181679504
+expStart,2024-10-04 12h03.26.712753 +0530
