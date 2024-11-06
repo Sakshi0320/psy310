@@ -1,0 +1,30 @@
+﻿test_word,Reference,old_new,Reference_raw,old_new_raw,test_textbox.text_raw,test_word_raw,testmouse.clicked_name_raw,testmouse.leftButton_raw,testmouse.midButton_raw,testmouse.rightButton_raw,testmouse.time_raw,testmouse.x_raw,testmouse.y_raw,thisN_raw,thisRepN_raw,thisTrialN_raw
+l_pt_p,Laptop,old,Camera,new,camera,c_m_ra,'submit_text',1,0,0,5.159432291002304,-0.047661870503597124,-0.2949640287769784,0,0,0
+_ha_t,Chart,old,Board ,old,board,_o_rd,'submit_text',1,0,0,5.183672125000157,0.0017985611510791368,-0.30035971223021585,1,0,1
+T_hi_t,Tshirt,old,Case,old,case,c_s_e,'submit_text',1,0,0,3.5629251249993104,-0.0008992805755395684,-0.3129496402877698,2,0,2
+_ou_se,mouse,old,Bottle,new,bottle,bo_t_e,'submit_text',1,0,0,3.297832667005423,-0.0008992805755395684,-0.3129496402877698,3,0,3
+P_as_tr_,Pastry,old,Table ,new,table,ta_l_,'submit_text',1,0,0,3.2413288750030915,-0.0008992805755395684,-0.3129496402877698,4,0,4
+c_s_e,Case,old,Police,old,police,P_li_e,'submit_text',1,0,0,2.5782835830032127,-0.0008992805755395684,-0.3129496402877698,5,0,5
+_ru_is_,Cruise,old,Keys,old,keys,K_y_,'submit_text',1,0,0,1.997368791999179,-0.0008992805755395684,-0.3129496402877698,6,0,6
+P_li_e,Police,old,Marble,old,marble,_a_bl_,'submit_text',1,0,0,7.814200084001641,-0.0008992805755395684,-0.3129496402877698,7,0,7
+K_y_,Keys,old,Vase,new,vase,v_s_,'submit_text',1,0,0,2.365012000002025,0.0,-0.31115107913669066,8,0,8
+P_st_r,Poster,old,Book,old,book,_oo_,'submit_text',1,0,0,2.2219008340034634,0.0,-0.31115107913669066,9,0,9
+_o_rd,Board ,old,Poster,old,poster,P_st_r,'submit_text',1,0,0,2.537747665999632,0.0,-0.31115107913669066,10,0,10
+_a_bl_,Marble,old,Pencil,new,pencil,p_nc_l,'submit_text',1,0,0,2.780104375000519,0.022482014388489208,-0.2904676258992806,11,0,11
+_ho_e,Phone,old,Cushion,old,cushion,c_s_io_,'submit_text',1,0,0,2.675781999998435,0.022482014388489208,-0.2904676258992806,12,0,12
+_oo_,Book,old,Cruise,old,cruise,_ru_is_,'submit_text',1,0,0,2.802456290999544,0.022482014388489208,-0.2904676258992806,13,0,13
+c_s_io_,Cushion,old,mouse,old,mouse,_ou_se,'submit_text',1,0,0,2.913371709000785,-0.009892086330935251,-0.30755395683453235,14,0,14
+ta_l_,Table ,new,Tshirt,old,tshirt,T_hi_t,None, 'submit_text',1, 1,0, 0,0, 0,4.067637625004863, 4.556411375000607,-0.014388489208633094, -0.014388489208633094,-0.26169064748201437, -0.30305755395683454,15,0,15
+p_nc_l,Pencil,new,Laptop,old,laptop,l_pt_p,'submit_text',1,0,0,3.0410766250060988,-0.013489208633093525,-0.3012589928057554,16,0,16
+v_s_,Vase,new,Pastry,old,pastre,P_as_tr_,'submit_text',1,0,0,5.997779541001364,0.014388489208633094,-0.29136690647482016,17,0,17
+bo_t_e,Bottle,new,Chart,old,chart,_ha_t,'submit_text',1,0,0,3.400548292003805,0.014388489208633094,-0.29136690647482016,18,0,18
+c_m_ra,Camera,new,Phone,old,phone,_ho_e,'submit_text',1,0,0,3.5777492920024088,0.014388489208633094,-0.29136690647482016,19,0,19
+
+extraInfo
+participant,1
+session,001
+date,2024-11-06_10h22.29.035
+expName,primming 5.0
+psychopyVersion,2024.2.4
+frameRate,121.49235179030909
+expStart,2024-11-06 10h22.37.797061 +0530
