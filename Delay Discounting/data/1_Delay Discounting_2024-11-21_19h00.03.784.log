@@ -1,0 +1,136 @@
+14.0657 	INFO 	Loaded monitor calibration from ['2024_10_29 21:52']
+14.2410 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8fb2669490>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8fb2669430>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8fca844e80>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3420, 2224]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.2411 	EXP 	window1: backgroundImage = ''
+14.2411 	EXP 	window1: backgroundFit = 'none'
+14.2542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2553 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2564 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2581 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2601 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2611 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2632 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2646 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2657 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2667 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2678 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2685 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2698 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2711 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2716 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2735 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2743 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.2777 	DEBUG 	Upload of Texture Font fontname complete
+14.2830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2845 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2860 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.2861 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.2878 	DEBUG 	Upload of Texture Font fontname complete
+14.2891 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.2891 	EXP 	window1: recordFrameIntervals = False
+14.4512 	EXP 	window1: recordFrameIntervals = True
+14.6178 	EXP 	Screen (0) actual frame rate measured at 120.65Hz
+14.6178 	EXP 	window1: recordFrameIntervals = False
+14.6360 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+16.4944 	INFO 	keyboard.Keyboard is using iohub backend.
+16.4944 	INFO 	keyboard.Keyboard is using iohub backend.
+16.4944 	EXP 	Delay Discounting: status = STARTED
+16.4997 	EXP 	Created Fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+16.5040 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0128 	DEBUG 	Read csv file with pandas: /Users/sakshi/Downloads/Delay Discounting_Conditioning - Sheet1.csv
+0.0136 	DEBUG 	Clearing unnamed columns from /Users/sakshi/Downloads/Delay Discounting_Conditioning - Sheet1.csv
+0.0139 	EXP 	Imported /Users/sakshi/Downloads/Delay Discounting_Conditioning - Sheet1.csv as conditions, 7 conditions, 3 params
+0.0142 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'reward_today': 67, 'future_reward': 76, 'delay': 119, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0410 	EXP 	text: height = 0.05
+0.0410 	EXP 	text: height = 0.05
+0.0410 	EXP 	text: height = 0.05
+0.0410 	EXP 	text: text = 'GBP 67 today or GBP 76 after 119 days'
+0.0410 	EXP 	Fixation: autoDraw = True
+1.0077 	INFO 	Keyboard events cleared
+1.0072 	EXP 	text: autoDraw = True
+1.0313 	EXP 	Fixation: autoDraw = False
+3.1139 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'reward_today': 15, 'future_reward': 35, 'delay': 13, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.1243 	DATA 	Keypress: l
+3.1322 	EXP 	Fixation: autoDraw = False
+3.1322 	EXP 	text: autoDraw = False
+3.1322 	EXP 	text: height = 0.05
+3.1322 	EXP 	text: height = 0.05
+3.1322 	EXP 	text: height = 0.05
+3.1322 	EXP 	text: text = 'GBP 15 today or GBP 35 after 13 days'
+3.1322 	EXP 	Fixation: autoDraw = True
+4.1072 	INFO 	Keyboard events cleared
+4.1067 	EXP 	text: autoDraw = True
+4.1242 	EXP 	Fixation: autoDraw = False
+4.4262 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'reward_today': 11, 'future_reward': 30, 'delay': 7, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+4.4380 	DATA 	Keypress: t
+4.4450 	EXP 	Fixation: autoDraw = False
+4.4450 	EXP 	text: autoDraw = False
+4.4450 	EXP 	text: height = 0.05
+4.4450 	EXP 	text: height = 0.05
+4.4450 	EXP 	text: height = 0.05
+4.4450 	EXP 	text: text = 'GBP 11 today or GBP 30 after 7 days'
+4.4450 	EXP 	Fixation: autoDraw = True
+5.4244 	INFO 	Keyboard events cleared
+5.4239 	EXP 	text: autoDraw = True
+5.4416 	EXP 	Fixation: autoDraw = False
+5.6002 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'reward_today': 27, 'future_reward': 50, 'delay': 21, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+5.6132 	DATA 	Keypress: l
+5.6198 	EXP 	Fixation: autoDraw = False
+5.6198 	EXP 	text: autoDraw = False
+5.6198 	EXP 	text: height = 0.05
+5.6198 	EXP 	text: height = 0.05
+5.6198 	EXP 	text: height = 0.05
+5.6198 	EXP 	text: text = 'GBP 27 today or GBP 50 after 21 days'
+5.6198 	EXP 	Fixation: autoDraw = True
+6.5990 	INFO 	Keyboard events cleared
+6.5986 	EXP 	text: autoDraw = True
+6.6155 	EXP 	Fixation: autoDraw = False
+6.8835 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'reward_today': 49, 'future_reward': 60, 'delay': 89, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+6.8954 	DATA 	Keypress: t
+6.9019 	EXP 	Fixation: autoDraw = False
+6.9019 	EXP 	text: autoDraw = False
+6.9019 	EXP 	text: height = 0.05
+6.9019 	EXP 	text: height = 0.05
+6.9019 	EXP 	text: height = 0.05
+6.9019 	EXP 	text: text = 'GBP 49 today or GBP 60 after 89 days'
+6.9019 	EXP 	Fixation: autoDraw = True
+7.8759 	INFO 	Keyboard events cleared
+7.8755 	EXP 	text: autoDraw = True
+7.9245 	EXP 	Fixation: autoDraw = False
+8.2278 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'reward_today': 78, 'future_reward': 80, 'delay': 162, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+8.2432 	DATA 	Keypress: t
+8.2445 	DATA 	Keypress: l
+8.2507 	EXP 	Fixation: autoDraw = False
+8.2507 	EXP 	text: autoDraw = False
+8.2507 	EXP 	text: height = 0.05
+8.2507 	EXP 	text: height = 0.05
+8.2507 	EXP 	text: height = 0.05
+8.2507 	EXP 	text: text = 'GBP 78 today or GBP 80 after 162 days'
+8.2507 	EXP 	Fixation: autoDraw = True
+9.2256 	INFO 	Keyboard events cleared
+9.2251 	EXP 	text: autoDraw = True
+9.2428 	EXP 	Fixation: autoDraw = False
+9.4870 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'reward_today': 40, 'future_reward': 55, 'delay': 62, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+9.4975 	DATA 	Keypress: l
+9.4988 	DATA 	Keypress: t
+9.5050 	EXP 	Fixation: autoDraw = False
+9.5050 	EXP 	text: autoDraw = False
+9.5050 	EXP 	text: height = 0.05
+9.5050 	EXP 	text: height = 0.05
+9.5050 	EXP 	text: height = 0.05
+9.5050 	EXP 	text: text = 'GBP 40 today or GBP 55 after 62 days'
+9.5050 	EXP 	Fixation: autoDraw = True
+10.4823 	INFO 	Keyboard events cleared
+10.4816 	EXP 	text: autoDraw = True
+10.4990 	EXP 	Fixation: autoDraw = False
+11.3190 	DATA 	Keypress: l
+11.3247 	EXP 	Fixation: autoDraw = False
+11.3247 	EXP 	text: autoDraw = False
+11.3247 	EXP 	Delay Discounting: status = STOPPED
+11.3264 	INFO 	saved data to '/Users/sakshi/Desktop/Experiments/Delay Discounting/data/1_Delay Discounting_2024-11-21_19h00.03.784.csv'
+11.3269 	INFO 	saved data to /Users/sakshi/Desktop/Experiments/Delay Discounting/data/1_Delay Discounting_2024-11-21_19h00.03.784.psydat
+11.7070 	DEBUG 	Saving data for Delay Discounting ExperimentHandler
