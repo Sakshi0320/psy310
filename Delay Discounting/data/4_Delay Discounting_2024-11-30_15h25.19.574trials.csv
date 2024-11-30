@@ -1,0 +1,17 @@
+﻿reward_today,future_reward,delay,delay_raw,future_reward_raw,key_resp.duration_raw,key_resp.keys_raw,key_resp.rt_raw,reward_today_raw,thisN_raw,thisRepN_raw,thisTrialN_raw
+11,30,7,13,35,,l,6.0138001249997615,15,0,0,0
+15,35,13,7,30,,l,0.08347058300023491,11,1,0,1
+27,50,21,62,55,,l,0.14625516699925356,40,2,0,2
+40,55,62,119,76,,l,0.1290221670005849,67,3,0,3
+49,60,89,162,80,,t,0.005068665999715449,78,4,0,4
+67,76,119,21,50,,t,0.04958641700068256,27,5,0,5
+78,80,162,89,60,,t,0.21196783300001698,49,6,0,6
+
+extraInfo
+participant,4
+session,001
+date,2024-11-30_15h25.19.574
+expName,Delay Discounting
+psychopyVersion,2024.2.4
+frameRate,None
+expStart,2024-11-30 15h25.27.619413 +0530
